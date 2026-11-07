@@ -1,0 +1,7 @@
+# compiled programs
+caesar
+crack
+autocrack
+challenge
+*.o
+*.out
