@@ -212,4 +212,4 @@ Only run the server on a network you trust, and stop it with `Ctrl+C` when you'r
 
 ---
 
-Built by Arman ([@arm21n](https://github.com/arm21n)), first-year cybersecurity student at AITU, aspiring penetration tester. This project is part of my learning in public; I built it step by step with an AI tutor giving hints along the way.
+Built by Arman ([@arm21n](https://github.com/arm21n)), first-year cybersecurity student at AITU, aspiring penetration tester. This project is part of my learning in public.
